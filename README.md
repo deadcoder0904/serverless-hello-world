@@ -57,3 +57,5 @@ Open up a separate tab in your console, set your Provider Credentials and stream
 If at any point, you no longer need your service, you can run the following command to remove the Functions, Events and Resources that were created, and ensure that you don't incur any unexpected charges.
 
 `$ sls remove`
+
+To learn more about Serverless, checkout [Serverless Framework](https://serverless.com), [The Power of Serverless](https://thepowerofserverless.info), [Awesome Serverless](https://github.com/anaibol/awesome-serverless) & [Serverless Stack](https://serverless-stack.com)
