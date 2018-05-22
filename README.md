@@ -58,4 +58,4 @@ If at any point, you no longer need your service, you can run the following comm
 
 `$ sls remove`
 
-To learn more about Serverless, checkout [Serverless Framework](https://serverless.com), [The Power of Serverless](https://thepowerofserverless.info), [Awesome Serverless](https://github.com/anaibol/awesome-serverless) & [Serverless Stack](https://serverless-stack.com)
+> To learn more about Serverless, checkout [Serverless Framework](https://serverless.com), [The Power of Serverless](https://thepowerofserverless.info), [Awesome Serverless](https://github.com/anaibol/awesome-serverless) & [Serverless Stack](https://serverless-stack.com)
