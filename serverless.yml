@@ -3,9 +3,11 @@ service: serverless-hello-world
 provider:
   name: aws
   runtime: nodejs8.10
+  environment:
+    SUPER_SECRET: ${file(./env.json):SUPER_SECRET}
 
 functions:
   hello:
     handler: handler.hello
     events:
-      - schedule: cron(0/2 * * * ? *)
+      - schedule: rate(1 minute)

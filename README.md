@@ -2,6 +2,8 @@
 
 > 🚀 Serverless Hello World example that runs every 2 minutes
 
+Rename `env.example.json` file to `env.json` file when deploying
+
 # 1. Set-Up
 
 Make sure you have Node.js installed and run:
